@@ -79,24 +79,3 @@ function buttonAnimation(key) {
 }
 
 
-// var audio = new Audio('sounds/tom-1.mp3');
-// audio.play();
-
-
-
-
-
-
-
-
-
-
-// this.style.color = "white";
-// function HouseKeeper (exp, name, clearing) {
-//     this.exp = exp;
-//     this.name = name;
-//     this.clearing = clearing;
-// }
-
-// var housekeeper1 = new housekeeper1(9, "Bhavya", ["lobby","Bedroom"]);
-// housekeeper1.name;
